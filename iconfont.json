@@ -1,0 +1,23 @@
+{
+  "id": "3055605",
+  "name": "星级评分",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1032410",
+      "name": "星星",
+      "font_class": "xingxing",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "7553849",
+      "name": "24gf-starHalf",
+      "font_class": "24gf-starHalf",
+      "unicode": "e8c6",
+      "unicode_decimal": 59590
+    }
+  ]
+}
